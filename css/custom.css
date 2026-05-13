@@ -1,0 +1,5 @@
+.markdown-body p,
+.post-content p,
+.article-entry p {
+  text-indent: 2em;
+}
