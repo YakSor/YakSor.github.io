@@ -26,8 +26,8 @@
 <meta property="og:site_name" content="荒原">
 <meta property="og:description" content="正在加载句子……       刷新       let quenyaDict &#x3D; {}; let sentenceList &#x3D; [];  Promise.all([   fetch(&#39;&#x2F;data&#x2F;q-vocab.txt&#39;).then(response &#x3D;&gt; response.text()),   fetch(&#39;&#x2F;data&#x2F;quenya-sentences.txt&#39;).then(re">
 <meta property="og:locale" content="zh_CN">
-<meta property="article:published_time" content="2026-05-14T18:40:17.747Z">
-<meta property="article:modified_time" content="2026-05-14T18:40:17.747Z">
+<meta property="article:published_time" content="2026-05-14T19:01:44.790Z">
+<meta property="article:modified_time" content="2026-05-14T19:01:44.790Z">
 <meta property="article:author" content="Bernkastel">
 <meta name="twitter:card" content="summary_large_image">
   
@@ -410,7 +410,9 @@ function parseDictionary(text) {
 
   return dict;
 }
-
+function formatMeaning(text) {
+  return text.replace(/"([^"]+)"/g, '<strong class="meaning-text">"$1"</strong>');
+}
 function normalizeWord(word) {
   return word
     .toLowerCase()
@@ -431,7 +433,7 @@ function showRandomSentence() {
   const index = Math.floor(Math.random() * sentenceList.length);
   const sentence = sentenceList[index];
 
-  sentenceEl.innerText = sentence;
+  sentenceEl.innerHTML = `<span class="quenya-text">${sentence}</span>`;S
   lookupSentence(sentence);
 }
 
@@ -453,14 +455,14 @@ function lookupSentence(sentence) {
     if (entry) {
       html += `
         <div class="dict-card">
-          <h3>${entry.word}</h3>
-          <p>${entry.detail}</p>
+          <h3 class="quenya-word">${entry.word}</h3>
+          <p class="dict-detail">${formatMeaning(entry.detail)}</p>
         </div>
       `;
     } else {
       html += `
         <div class="dict-card dict-missing">
-          <h3>${word}</h3>
+          <h3 class="quenya-word">${word}</h3>
           <p>词典中暂时没有这个词。</p>
         </div>
       `;
