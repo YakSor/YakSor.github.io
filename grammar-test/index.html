@@ -26,8 +26,8 @@
 <meta property="og:site_name" content="荒原">
 <meta property="og:description" content="正在加载句子……       刷新       let quenyaDict &#x3D; {}; let sentenceList &#x3D; [];  Promise.all([   fetch(&#39;&#x2F;data&#x2F;q-vocab.txt&#39;).then(response &#x3D;&gt; response.text()),   fetch(&#39;&#x2F;data&#x2F;quenya-sentences.txt&#39;).then(re">
 <meta property="og:locale" content="zh_CN">
-<meta property="article:published_time" content="2026-05-14T18:25:18.774Z">
-<meta property="article:modified_time" content="2026-05-14T18:25:18.774Z">
+<meta property="article:published_time" content="2026-05-14T18:40:17.747Z">
+<meta property="article:modified_time" content="2026-05-14T18:40:17.747Z">
 <meta property="article:author" content="Bernkastel">
 <meta name="twitter:card" content="summary_large_image">
   
@@ -438,10 +438,12 @@ function showRandomSentence() {
 function lookupSentence(sentence) {
   const result = document.getElementById('dict-result');
 
-  const words = sentence
+  const words = [...new Set(
+  sentence
     .split(/\s+/)
     .map(normalizeWord)
-    .filter(Boolean);
+    .filter(Boolean)
+)];
 
   let html = '<div class="dict-word-list">';
 
