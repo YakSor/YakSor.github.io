@@ -19,15 +19,15 @@
   <meta name="author" content="Bernkastel">
   <meta name="keywords" content="">
   
-    <meta name="description" content="语法测试 1    问题：下面哪个句子是正确的？              A. I has a book.                 B. I have a book.                 C. I having a book.       提交答案       function checkQ1() {   const answer &#x3D; document.querySel">
+    <meta name="description" content="正在加载句子……       刷新一句       let quenyaDict &#x3D; {}; let sentenceList &#x3D; [];  Promise.all([   fetch(&#39;&#x2F;data&#x2F;q-vocab.txt&#39;).then(response &#x3D;&gt; response.text()),   fetch(&#39;&#x2F;data&#x2F;quenya-sentences.txt&#39;).then(">
 <meta property="og:type" content="website">
 <meta property="og:title" content="米那斯提力斯图书馆">
 <meta property="og:url" content="http://example.com/grammar-test/index.html">
 <meta property="og:site_name" content="荒原">
-<meta property="og:description" content="语法测试 1    问题：下面哪个句子是正确的？              A. I has a book.                 B. I have a book.                 C. I having a book.       提交答案       function checkQ1() {   const answer &#x3D; document.querySel">
+<meta property="og:description" content="正在加载句子……       刷新一句       let quenyaDict &#x3D; {}; let sentenceList &#x3D; [];  Promise.all([   fetch(&#39;&#x2F;data&#x2F;q-vocab.txt&#39;).then(response &#x3D;&gt; response.text()),   fetch(&#39;&#x2F;data&#x2F;quenya-sentences.txt&#39;).then(">
 <meta property="og:locale" content="zh_CN">
-<meta property="article:published_time" content="2026-05-14T16:00:00.000Z">
-<meta property="article:modified_time" content="2026-05-14T17:27:44.224Z">
+<meta property="article:published_time" content="2026-05-14T18:17:56.871Z">
+<meta property="article:modified_time" content="2026-05-14T18:17:56.871Z">
 <meta property="article:author" content="Bernkastel">
 <meta name="twitter:card" content="summary_large_image">
   
@@ -330,45 +330,143 @@
                 
 
 <article class="page-content">
-  <div class="quiz-box">
-  <h3>语法测试 1</h3>
+  <div class="dict-tool">
+  <div id="random-sentence" class="random-sentence">
+    正在加载句子……
+  </div>
 
-  <p><strong>问题：</strong>下面哪个句子是正确的？</p>
-
-  <label>
-    <input type="radio" name="q1" value="A">
-    A. I has a book.
-  </label>
-
-  <label>
-    <input type="radio" name="q1" value="B">
-    B. I have a book.
-  </label>
-
-  <label>
-    <input type="radio" name="q1" value="C">
-    C. I having a book.
-  </label>
-
-<p>  <button onclick="checkQ1()">提交答案</button></p>
-  <p id="q1-result"></p>
+<p>  <button onclick="showRandomSentence()">刷新一句</button></p>
+  <div id="dict-result"></div>
 </div>
 
 <script>
-function checkQ1() {
-  const answer = document.querySelector('input[name="q1"]:checked');
-  const result = document.getElementById('q1-result');
+let quenyaDict = {};
+let sentenceList = [];
 
-  if (!answer) {
-    result.innerText = '请先选择一个答案。';
+Promise.all([
+  fetch('/data/q-vocab.txt').then(response => response.text()),
+  fetch('/data/quenya-sentences.txt').then(response => response.text())
+])
+  .then(([dictText, sentenceText]) => {
+    quenyaDict = parseDictionary(dictText);
+    sentenceList = parseSentences(sentenceText);
+    showRandomSentence();
+  })
+  .catch(error => {
+    document.getElementById('dict-result').innerHTML =
+      '<p class="dict-error">加载失败，请检查 source/data/q-vocab.txt 和 source/data/quenya-sentences.txt 是否存在。</p>';
+  });
+
+function parseSentences(text) {
+  return text
+    .split(/\r?\n/)
+    .map(line => line.trim())
+    .filter(line => line && !line.startsWith('#'));
+}
+
+function parseDictionary(text) {
+  const dict = {};
+  const lines = text.split(/\r?\n/);
+
+  lines.forEach(line => {
+    line = line.trim();
+
+    if (!line.startsWith('¤')) return;
+
+    const entryText = line.replace(/^¤\s*/, '');
+
+    const commaIndex = entryText.indexOf(',');
+    if (commaIndex === -1) return;
+
+    let headword = entryText.slice(0, commaIndex).trim();
+    const detail = entryText.slice(commaIndex + 1).trim();
+
+    let lookupWord = headword
+      .replace(/\(.*?\)/g, '')
+      .replace(/\?.*$/g, '')
+      .trim()
+      .toLowerCase();
+
+    dict[lookupWord] = {
+      word: headword,
+      detail: detail
+    };
+
+    const stemMatch = headword.match(/\((.*?)\)/);
+    if (stemMatch) {
+      const stem = stemMatch[1]
+        .replace(/-/g, '')
+        .trim()
+        .toLowerCase();
+
+      if (stem) {
+        dict[stem] = {
+          word: headword,
+          detail: detail
+        };
+      }
+    }
+  });
+
+  return dict;
+}
+
+function normalizeWord(word) {
+  return word
+    .toLowerCase()
+    .replace(/[.,!?;:()"“”‘’]/g, '')
+    .trim();
+}
+
+function showRandomSentence() {
+  const sentenceEl = document.getElementById('random-sentence');
+  const result = document.getElementById('dict-result');
+
+  if (!sentenceList.length) {
+    sentenceEl.innerText = '句子库里还没有句子。';
+    result.innerHTML = '';
     return;
   }
 
-  if (answer.value === 'B') {
-    result.innerText = '回答正确！';
-  } else {
-    result.innerText = '回答错误。正确答案是 B。';
-  }
+  const index = Math.floor(Math.random() * sentenceList.length);
+  const sentence = sentenceList[index];
+
+  sentenceEl.innerText = sentence;
+  lookupSentence(sentence);
+}
+
+function lookupSentence(sentence) {
+  const result = document.getElementById('dict-result');
+
+  const words = sentence
+    .split(/\s+/)
+    .map(normalizeWord)
+    .filter(Boolean);
+
+  let html = '<div class="dict-word-list">';
+
+  words.forEach(word => {
+    const entry = quenyaDict[word];
+
+    if (entry) {
+      html += `
+        <div class="dict-card">
+          <h3>${entry.word}</h3>
+          <p>${entry.detail}</p>
+        </div>
+      `;
+    } else {
+      html += `
+        <div class="dict-card dict-missing">
+          <h3>${word}</h3>
+          <p>词典中暂时没有这个词。</p>
+        </div>
+      `;
+    }
+  });
+
+  html += '</div>';
+  result.innerHTML = html;
 }
 </script>
 

@@ -1,0 +1,525 @@
+﻿QUENYA VOCABULARY
+
+These lists, Quenya-English and English-Quenya, cover the vocabulary used in the exercises of Lessons 2-20 of this course, except for a few proper names. (Words that occur in the main text of the lessons, but that are not used in the exercises, are excluded. The words occurring in the exercises of Lesson One are also excluded, since their meanings are irrelevant for the exercises.) Notice that all words are here listed in their most basic form; the actual text of the exercises would often employ or require more complex inflected or derivative forms. No inflectional endings are included in the Quenya-English list, but pronominal endings are included in the English-Quenya list below. – For more extensive Quenya wordlists, see www.Ardalambion.com/wordlists.htm
+
+QUENYA-ENGLISH LIST
+¤ á (variant a), imperative particle, combined with a form of the verb similar to the infinitive (e.g. á carë! "do!")
+¤ airita-, verb "to hallow" (past tense airitánë)
+¤ aiwë, noun "bird" (primarily referring to small birds)
+¤ alassë, noun "joy"
+¤ alda, noun "tree"
+¤ alta, adjective "great" (= big, referring to physical size only)
+¤ alya, adjective "rich"
+¤ Ambar, noun "(the) world" (apparently treated as a proper name)
+¤ ambo, noun "hill"
+¤ an, conjunction and preposition "for" (only used as conjunction in this course)
+¤ an-, superlative prefix
+¤ Anar, noun "(the) Sun" (apparently treated as a proper name)
+¤ ando, noun "gate"
+¤ ango (angu-), noun "snake"
+¤ anna, noun "gift"
+¤ anta- verb "to give", irregular past tense ánë (though the regular form ?antanë is perhaps also possible)
+¤ anto, noun "mouth"
+¤ anwa, adjective "real, actual, true"
+¤ apa, preposition "after"
+¤ ar, conjunction "and"
+¤ aran, noun "king"
+¤ arwa, adjective "possessing", "in control of", "having", followed by genitive
+¤ Atan, noun "Man" (generic: Mortal Man, "human" as opposed to Elf; contrast the non-generic term nér)
+¤ atta, cardinal "two"; attëa, ordinal "second" (replacing older tatya, atya)
+¤ aurë, noun "day" (the daylight period, not a full 24-hour cycle)
+¤ auta- "to leave, to go/pass away", past tense oantë and perfect oantië about physically leaving one place and going to another, but past tense vánë and perfect avánier about disappearing or dying off.
+¤ áva "don't!", the imperative particle á + the negation -va; the form áva is combined with a form of the verb similar to the infinitive to express a negative command (e.g. áva carë "don't do [it]!")
+¤ cainen, cardinal "ten"
+¤ caita-, verb "lie" (lie horizontally, not "tell a lie")
+¤ cala, noun "light"
+¤ calima, adjective "bright"
+¤ canta, cardinal "four"; cantëa, ordinal "fourth"
+¤ cap-, verb "to jump"
+¤ car-, verb "to make, to do"
+¤ carnë, adjective "red" (also past tense of the verb car-)
+¤ cen- verb "to see"
+¤ cenda-, verb "to read" 
+¤ cilya, noun "cleft, gorge"
+¤ cirya, noun "ship"
+¤ coa, noun "house"
+¤ ëa, verb "is" = "exists", past tense engë, future tense perhaps euva
+¤ ehtë (perhaps with stem ehti-), noun "spear"
+¤ Elda, noun "Elf"
+¤ elen, noun "star" 
+¤ elmë, emphatic pronoun "we", exclusive. (The form elmë is not directly attested in published material, but is extrapolated from the corresponding ending -lmë. This emphatic pronoun for exclusive "we" is attested as emmë, but the relevant texts were written before Tolkien changed the corresponding ending from -mmë to -lmë.)
+¤ elyë, emphatic pronoun "you, thou"
+¤ elvë, emphatic pronoun "we", inclusive. (The form elvë is not directly attested in published material, but is extrapolated from the corresponding ending -lvë.)
+¤ engë, see ëa
+¤ engwë, noun "thing" 
+¤ enquë, cardinal "six"; enquëa, ordinal "sixth"
+¤ enta, demonstrative "that [yonder]", "[the one] over there" (of time referring to some future entity)
+¤ envinyata-, verb "to renew"
+¤ equë, verb "say(s), said" (tenseless verb introducing quotations)
+¤ et, preposition "out, forth" (when followed by ablative: "out of")
+¤ ?euva, see ëa
+¤ farya-, verb "to suffice, to be enough", past tense farnë
+¤ fir-, verb "to die, to expire"
+¤ firin, adjective "dead" (not to be confused with firin "I die", the 1st person aorist of the verb fir-)
+¤ Formen, noun "(the) North" (apparently treated as a proper name)
+¤ forya, adjective "right" (of direction)
+¤ haira, adjective "far, remote"
+¤ halla, adjective "tall"
+¤ harma, noun "treasure"
+¤ harna-, verb "to wound"
+¤ harya-, verb "to possess, have"
+¤ hen (hend-), noun "eye"
+¤ hir-, verb "find"
+¤ hlar-, verb "to hear"
+¤ hosta-, verb "to assemble, gather"
+¤ hrávë, noun "flesh"
+¤ hrívë, noun "winter"
+¤ hroa, noun "body"
+¤ Hyarmen, noun "(the) South" (apparently treated as a proper name)
+¤ hyarya, adjective "left" (not "left behind", but the opposite of "right")
+¤ i, 1) article "the"; 2) relative pronoun "who, which"
+¤ ilya, noun/adjective "all, every". Before a singular noun, ilya means "every", e.g. ilya Elda "every Elf", but ilya occurring by itself would rather mean "all". Before a plural noun, ilya also signifies "all"; in this position it is inflected like an adjective, thus assuming the form ilyë, e.g. ilyë tier "all paths" (Namárië)
+¤ imbë, preposition "between"
+¤ inyë, emphatic pronoun "I"
+¤ írë, conjunction "when" (not interrogative)
+¤ Isil, noun "(the) Moon" (apparently treated as a proper name)
+¤ ista-, verb "to know", irregular past tense sintë. Before an infinitive, this verb is used for "can, is able" in the sense of "knows [how] to".
+¤ lá, 1) negation "not", 2) preposition "beyond", also used in comparison
+¤ laita-, verb "to bless, praise"
+¤ lala-, verb "to laugh"
+¤ laman (lamn-), noun "animal" (the stem-form may also simply be laman-)
+¤ lambë "tongue" (= language; "tongue" as a body-part is lamba)
+¤ lanta-, verb "to fall"
+¤ le, independent pronoun "you", probably unchanged when used as object. (In some versions of Quenya, le covers both singular and plural "you", but Tolkien may also have introduced lye as a distinctly singular form, presumably leaving le distinctly plural.) 
+¤ lelya-, verb "to go, proceed, travel", irregular past tense lendë, perfect [e]lendië
+¤ lempë, cardinal "five"; lempëa, ordinal "fifth"
+¤ lendë, past tense of lelya, q.v.
+¤ lerta-, verb "can, be able" in the sense of "be allowed to" (English often uses "may" in this sense)
+¤ lerya-, verb "to release, (set) free, let go"
+¤ lië, noun "people" (ethnic group or race)
+¤ limpë, noun "wine" (within Tolkien's mythos also some special drink of the Elves or of the Valar)
+¤ linda-, verb "to sing"
+¤ linta, adjective "swift" (only attested in plural form: lintë)
+¤ lómë (lómi-), noun "night"
+¤ ma, possible interrogative particle
+¤ má, noun "hand"
+¤ macil, noun "sword"
+¤ mahta-, verb "to fight"
+¤ mal, conjunction "but"
+¤ mallë, noun "road, street"
+¤ malta, noun "gold"
+¤ man, interrogative pronoun "who?"
+¤ mana, interrogative pronoun "what?" (according to one interpretation of the sentence in which this word occurs)
+¤ manen, interrogative "how?"
+¤ mapa-, verb "to grasp, seize"
+¤ mar-, verb "to dwell, abide"; to "live" somewhere in the sense of dwelling there
+¤ mára, adjective "good" (in the sense of "fit, useful", not of moral qualities)
+¤ mat-, verb "to eat"
+¤ me, independent pronoun "we" (exclusive, cf. the ending -lmë), probably unchanged when used as object "us". Often occurring with case endings (e.g. dative men "for us").
+¤ mel-, verb "to love" (as friend)
+¤ Menel, noun "the firmament, sky, heaven, the heavens" (apparently treated as a proper name)
+¤ menta-, verb "to send"
+¤ mer-, verb "to wish, want"
+¤ metya-, verb "to end" = "put an end to"
+¤ mindon, noun "(great) tower"
+¤ minë, cardinal "one"; minya, ordinal "first"
+¤ minquë, cardinal "eleven"
+¤ minya, ordinal "first" (cf. minë)
+¤ mir, preposition "into"
+¤ mól, noun "thrall, slave"
+¤ morë, adjective "black"
+¤ mornië, noun "darkness"
+¤ muilë, noun "secrecy"
+¤ ná, verb "is" (nar "are"), future tense nauva "will be"; see also né.
+¤ namba, noun "hammer"
+¤ Nauco, noun "Dwarf"
+¤ nauva, see ná
+¤ né has been hinted to be the past tense of ná "is", hence "was"
+¤ neldë, cardinal "three"; nelya (later also neldëa), ordinal "third"
+¤ nér (ner-), noun "man" (adult male of any sentient race)
+¤ nertë, cardinal "nine"; nertëa, ordinal "ninth"
+¤ ni, independent pronoun "I", often occurring with case endings (e.g. dative nin "for me"). Object form nye "me"
+¤ nilmë, noun "friendship"
+¤ ninquë, adjective "white"
+¤ nís (niss-) "woman" (adult female of any sentient race)
+¤ noa, noun "idea"
+¤ nómë, noun "place"
+¤ nórë, noun "land" (associated with a particular people)
+¤ nu, preposition "under"
+¤ nulda, adjective "secret"
+¤ Númen, noun "(the) West" (apparently treated as a proper name)
+¤ núra, adjective "deep"
+¤ nurta-, verb "to hide"
+¤ nye, object pronoun "me" (cf. ni)
+¤ oantë, oantië, past and perfect forms of auta, q.v.
+¤ ohtar, noun "warrior"
+¤ óla-, impersonal verb "to dream"
+¤ ondo, noun "stone" (as material); also used = "(a) rock"
+¤ or- (also ora-), impersonal verb "to urge, to impel" (used with a dative form to express "[someone] feels moved [to do something]").
+¤ or, preposition "over, above"
+¤ oron (oront-), noun "mountain"
+¤ orta-, verb "to rise", also used transitively: "to raise, lift up"
+¤ osto, noun "(fortified) city" (used in this sense throughout this course, but the word may also refer to an actual fortress)
+¤ otso, cardinal "seven"; otsëa, ordinal "seventh"
+¤ palu-, verb "to expand"
+¤ parma, noun "book"
+¤ pé, noun "lip", nominative dual peu
+¤ pella, postposition "beyond"
+¤ pol- "to be (physically) able to", normally translated "can" (referring to physical ability: not "can" meaning "know how to", which is rather ista-, or "can" meaning "may" = "is permitted to", which is rather lerta-)
+¤ polda, adjective "(physically) strong, burly"
+¤ pusta-, verb "to stop"
+¤ quainëa, ordinal "tenth" (according to one late source; presupposes another word than cainen as the cardinal "ten")
+¤ quen, indefinite pronoun "one", "someone"
+¤ quet-, verb "to speak, say"
+¤ rá (ráv-), noun "lion"
+¤ rac-, verb "to break"
+¤ ramba, noun "wall"
+¤ ranco (rancu-), noun "arm"
+¤ rassë "horn" (especially on living animal, but also used of mountains)
+¤ ?rasta, cardinal "twelve" (extrapolated from the stem RÁSAT, which is all Tolkien provided; he did not list the actual derivatives)
+¤ rimba, adjective "numerous" (in this course used to translate "many", appearing in the plural form rimbë when connecting with plural nouns)
+¤ rocco, noun "horse" (swift horse for riding)
+¤ roita-, verb "to pursue"
+¤ Rómen, noun "(the) East" (apparently treated as a proper name)
+¤ ruc- verb "to feel fear or horror", also used for "to fear" and then said to be constructed with "from" of the object feared (presumably meaning that what would be the direct object in English appears in the ablative case in Quenya)
+¤ ruhta-, verb "to terrify, to scare"
+¤ sa, particle "that" introducing nominal clauses (according to a source of somewhat questionable value)
+¤ saila, adjective "wise"
+¤ sambë, noun "room, chamber"
+¤ sangwa, noun "poison"
+¤ sar (sard-), noun "(a small) stone"
+¤ seldo, noun ?"boy" (Tolkien did not provide an explicit gloss, but the word is cited in a context where he is discussing Quenya words for "child", and seldo seems to be a masculine form)
+¤ seler (sell-), noun "sister"
+¤ sérë, noun "peace"
+¤ sil-, verb "shine" (with white or silver light)
+¤ sina, demonstrative "this"
+¤ sinomë, adverb "in this place" or simply "here"
+¤ sírë, noun "river"
+¤ suc-, verb "to drink"
+¤ ta, independent pronoun "it" or "that", probably unchanged when used as object; the allative tanna may be used = "thither". (In another version of Quenya, ta means "they, them" with reference to inanimate things. Compare te.)
+¤ talan (talam-), noun "floor"
+¤ tana, demonstrative "that"
+¤ tári, noun "queen"
+¤ tasar, noun "willow"
+¤ tatya, (archaic) ordinal "second" (in one late source, Tolkien writes that the Elves eventually replaced tatya with attëa, cf. atta as the word for "two")
+¤ taura, adjective "mighty"
+¤ te, independent pronoun "them" (according to one source only referring to persons; compare ta).
+¤ tec-, verb "to write"
+¤ telda, adjective "final"
+¤ tenna, preposition "until, as far as"
+¤ ter, preposition "through"
+¤ tir-, verb "to watch, guard"
+¤ tiuca, adjective "thick, fat"
+¤ tolto, cardinal "eight"; toltëa, ordinal "eighth"
+¤ toron (torn-), noun "brother"
+¤ tul-, verb "to come"
+¤ tulta-, verb "to summon"
+¤ tur-, verb "to govern, control, wield"
+¤ tye, independent object pronoun "you", "thee" (intimate singular)
+¤ ú, preposition "without" (normally followed by genitive)
+¤ ulya-, verb "to pour" (transitive past tense ulyanë, intransitive ullë) 
+¤ um-, negative verb "not to do" or "not to be", past tense úmë, future tense úva
+¤ úmëa, adjective "evil"
+¤ urco (urcu-), noun "bogey" (within Tolkien's mythos also used for "Orc")
+¤ úva, future tense of the negative verb (see um-)
+¤ vánë, a past tense of auta, q.v.
+¤ vanwa is called the "past participle" of auta- (q.v.), but it seems so irregular that it may just as well be treated as an independent adjective; the meaning is in any case "lost, gone, passed, vanished"
+¤ vanya, adjective "beautiful, fair"
+¤ varya-, verb "to protect"
+¤ ve, preposition "as, like"
+¤ vendë, noun "maiden"
+¤ veru, dual noun "(married) couple, man and wife, pair of spouses"
+¤ verya-, verb "to dare"
+¤ ya, relative pronoun "that, which", often with case endings; as relative pronoun alternating with i
+¤ yá, postposition (?) "ago" (the English gloss is in any case a postposition)
+¤ yána, noun "holy place, sanctuary"
+¤ yana, demonstrative "that" = "the former" (of time referring to some past entity)
+¤ yondo, noun "son"
+¤ yulma, noun "cup"
+
+
+ENGLISH-QUENYA LIST
+¤ abide mar- (dwell)
+¤ above or (over)
+¤ actual anwa (real, true)
+¤ after apa
+¤ ago yá (postposition like its English gloss?)
+¤ all ilya (before a plural noun ilyë)
+¤ and ar
+¤ animal laman (lamn- or simply laman-)
+¤ are nar
+¤ arm ranco (rancu-)
+¤ as ve (like)
+¤ assemble hosta- (gather)
+¤ beautiful vanya (fair)
+¤ between imbë
+¤ beyond pella (used as a postposition in Quenya)
+¤ big, see great
+¤ bird aiwë
+¤ black morë
+¤ bless laita- (praise)
+¤ body hroa
+¤ bogey (within Tolkien's mythos also "Orc") urco (urcu-)
+¤ book parma
+¤ boy seldo (Tolkien did not provide an explicit gloss, but the word is cited in a discussion of Quenya words for "child", and seldo seems to be a masculine form.)
+¤ break rac-
+¤ bright calima
+¤ brother toron (torn-)
+¤ burley polda (strong)
+¤ but mal
+¤ can (verb "to be able") pol- (of physical ability), lerta- (in the sense of "be allowed to"), ista-, past tense sintë (in the sense of "know how to")
+¤ chamber sambë (room)
+¤ city osto
+¤ cleft cilya (gorge)
+¤ come tul-
+¤ control tur- (govern, wield); in control of arwa (possessing, having – this adjective is followed by the genitive case)
+¤ couple (married couple) veru (man and wife, pair of spouses)
+¤ cup yulma
+¤ dare verya-
+¤ darkness mornië
+¤ day aurë
+¤ dead firin
+¤ deep núra
+¤ die fir- (expire)
+¤ do car- (make)
+¤ don't (introducing negative commands) áva 
+¤ dream (impersonal verb) óla-
+¤ drink suc-
+¤ Dwarf Nauco
+¤ dwell mar- (abide)
+¤ East Rómen (apparently treated as a proper name)
+¤ eat mat-
+¤ eight tolto; eighth toltëa
+¤ eleven minquë
+¤ Elf Elda
+¤ end (verb, = "put an end to") metya-
+¤ enough – be enough: farya, past tense farnë (suffice)
+¤ every ilya (+ a singular noun)
+¤ evil úmëa (Note: this word is attested in the Etymologies only. A more common word for "evil" seems to be ulca, but úmëa is used throughout this course to practice the otherwise quite rare adjectives in -ëa.)
+¤ exist ëa (past tense engë, future tense perhaps euva)
+¤ expand palu-
+¤ expire fir- (die)
+¤ eye hen (hend-)
+¤ fall lanta-
+¤ far haira (remote)
+¤ fat tiuca (thick)
+¤ fear, feel fear or horror ruc- (said to be constructed with "from" of the object that is feared, presumably meaning that what in English would be the direct object of "to fear" appears in the ablative case in Quenya)
+¤ feel moved (to do something) – this meaning may be expressed by the impersonal verb or-, ora- "impel, urge" combined with a dative form representing the one who "feels moved".
+¤ fifth lempëa
+¤ fight mahta-
+¤ final telda
+¤ find hir-
+¤ firmament Menel (sky, heaven, the heavens). Apparently treated as a proper name.
+¤ first minya
+¤ five lempë; fifth lempëa
+¤ flesh hrávë
+¤ floor talan (talam-)
+¤ for (conjunction) an
+¤ forth et (out)
+¤ four canta; fourth cantëa
+¤ free (verb, "set free") lerya- (release, let go)
+¤ friendship nilmë
+¤ gate ando
+¤ gather hosta- (assemble)
+¤ gift anna
+¤ give anta- (pa.t. ánë, though the regular form antanë is perhaps also permissible)
+¤ go away auta- (leave, pass away), past tense oantë and perfect oantië about physically leaving a place, but past tense vánë and perfect avánië about disappearing or dying off
+¤ go lelya- (proceed, travel), past tense lendë, perfect [e]lendië. Cf. also: let go lerya- (release, set free)
+¤ gold malta
+¤ gone vanwa (lost, passed, vanished)
+¤ good (in the sense of "fit, useful", not of moral qualities) mára 
+¤ gorge cilya (cleft)
+¤ govern tur- (control, wield)
+¤ grasp mapa- (seize)
+¤ great alta (big)
+¤ guard tir- (watch)
+¤ hallow airita- (past tense airitánë)
+¤ hammer namba
+¤ hand má
+¤ have harya- (possess); having arwa (possessing, in control of – this adjective is followed by the genitive case)
+¤ he – ending -s as subject (probably also as object "him") (also covering "she")
+¤ hear hlar-
+¤ heaven, heavens Menel (sky, firmament). Apparently treated as a proper name.
+¤ her – possessive ending -rya (also covering "his")
+¤ here sinomë (in this place)
+¤ hide nurta-
+¤ hill ambo
+¤ his – possessive ending -rya (also covering "her")
+¤ holy place yána (sanctuary)
+¤ horn (animal horn or mountain) rassë
+¤ horse rocco
+¤ house coa
+¤ how manen
+¤ I – subject ending -n or -nyë, independent pronoun ni (as object nye = "me"), emphatic pronoun inyë
+¤ idea noa
+¤ impel (impersonal verb) or-, variant ora- (urge)
+¤ (imperative particle) á, variant a
+¤ in control of arwa (possessing, having – this adjective is followed by the genitive case)
+¤ in this place sinomë (here)
+¤ (interrogative particle) ma
+¤ into mir
+¤ is ná
+¤ it – ending -s as subject or object; also independent pronoun ta (that)
+¤ joy alassë
+¤ jump cap-
+¤ king aran
+¤ know (+ infinitive: know how to) ista- (past tense sintë)
+¤ land (associated with a particular people) nórë
+¤ language lambë (tongue)
+¤ laugh lala-
+¤ leave auta- (go away, pass away), past tense oantë and perfect oantië about physically leaving a place, but past tense vánë and perfect avánië about disappearing or dying off
+¤ left (adjective of direction) hyarya
+¤ let go lerya- (release, set free)
+¤ lie (lie horizontally, not "tell a lie) caita-
+¤ lift up orta- (rise, raise)
+¤ light cala
+¤ like ve (as)
+¤ lion rá (ráv-)
+¤ lip pé (dual peu = pair of lips)
+¤ lost vanwa (gone, passed, vanished)
+¤ love mel-
+¤ maiden vendë
+¤ make car- (do)
+¤ man (adult male of any sentient race) nér (ner-)
+¤ Man (generic, "human" or Mortal as opposed to Elf) Atan
+¤ man and wife veru (married couple, pair of spouses)
+¤ many rimba (numerous). When connecting with plural nouns, this adjective would appear in plural form rimbë.
+¤ married couple veru (man and wife, pair of spouses)
+¤ me nye (see I); for/to me nin (dative)
+¤ mighty taura
+¤ Moon Isil (apparently treated as a proper name)
+¤ mountain oron (oront-)
+¤ mouth anto
+¤ my – possessive ending -nya
+¤ night lómë (lómi-)
+¤ nine nertë; ninth nertëa
+¤ North Formen (apparently treated as a proper name)
+¤ not lá; cf also the negative verb not to be, not to do um- (past tense úmë, future tense úva)
+¤ numerous rimba (see many)
+¤ one minë; cf. also the indefinite pronoun one, someone quen
+¤ our – possessive ending -lva (inclusive), -lma (exclusive) (plus a dual ending, "our" meaning "of the two of us": -mma. It is not known whether the latter ending is inclusive or exclusive, or indeed whether there is any distinction.) 
+¤ out et (forth); out of et + ablative
+¤ over or (above)
+¤ pass away auta- (go away, leave), past tense oantë and perfect oantië about physically leaving a place, but past tense vánë and perfect avánië about disappearing or dying off
+¤ passed vanwa (gone, lost, vanished)
+¤ peace sérë 
+¤ people (race, ethnic group) lië
+¤ place nómë; holy place yána (sanctuary)
+¤ poison sangwa
+¤ possess harya- (have)
+¤ possessing arwa (in control of, having – this adjective is followed by the genitive case)
+¤ pour ulya- (transitive past tense ulyanë, intransitive ullë)
+¤ praise laita- (bless)
+¤ proceed lelya- (go, travel), past tense lendë, perfect [e]lendië
+¤ protect varya-
+¤ pursue roita-
+¤ put an end to metya-
+¤ queen tári
+¤ raise orta- (lift up, rise)
+¤ read cenda-
+¤ real anwa (actual, true)
+¤ red carnë
+¤ release lerya- (let go, set free)
+¤ remote haira (far)
+¤ renew envinyata-
+¤ rich alya
+¤ right (adjective of direction) forya
+¤ rise orta- (raise, lift up)
+¤ river sírë
+¤ road mallë (street)
+¤ rock ondo (also used = stone as material)
+¤ room sambë (chamber)
+¤ sanctuary yána (holy place)
+¤ say quet- (speak). Cf. also say(s), said equë (tenseless verb introducing quotations)
+¤ scare ruhta- (terrify)
+¤ second (ordinal number) tatya (or atya), in later Quenya replaced by attëa
+¤ secrecy muilë
+¤ secret (adjective) nulda
+¤ see cen-
+¤ seize mapa- (grasp)
+¤ send menta-
+¤ set free lerya- (release, let go)
+¤ seven otso; seventh otsëa
+¤ she – ending -s as subject (probably also as object "her") (also covering "he")
+¤ shine (with white or silver light) sil-
+¤ ship cirya
+¤ sing linda-
+¤ sister seler (sell-)
+¤ six enquë; sixth enquëa
+¤ sky Menel (firmament, heaven, the heavens). Apparently treated as a proper name.
+¤ slave mól (thrall)
+¤ snake ango (angu-)
+¤ someone quen
+¤ son yondo
+¤ South Hyarmen (apparently treated as a proper name)
+¤ speak quet- (say)
+¤ spear ehtë (perhaps with stem ehti-)
+¤ spouses veru (married couple, man and wife, pair of spouses)
+¤ star elen
+¤ stone (a small stone) sar (sard-); stone as material ondo (also used = "a rock")
+¤ stop pusta-
+¤ street mallë (road)
+¤ strong (physically) polda (burley)
+¤ suffice farya-, past tense farnë (be enough)
+¤ summon tulta-
+¤ Sun Anar (apparently treated as a proper name)
+¤ (superlative prefix) an-
+¤ swift linta (only attested in plural form: lintë)
+¤ sword macil
+¤ tall halla
+¤ ten cainen; tenth quainëa (the latter form, found in a late source, apparently presupposes another word than cainen as the cardinal "ten")
+¤ terrify ruhta- (scare)
+¤ that – independent pronoun: ta; relative pronoun: i, ya; particle introducing nominal clauses: sa. Demonstratives: that: tana; that, the former: yana (of time referring to some past entity); that (yonder): enta (of time referring to some future entity).
+¤ the i
+¤ thee (object pronoun, intimate singular) tye (you)
+¤ them – object ending -t,  independent pronoun te
+¤ they – subject ending -ntë
+¤ thick tiuca (fat)
+¤ thing engwë
+¤ third nelya, also neldëa
+¤ this (demonstrative) sina
+¤ thither tanna
+¤ thou – subject ending -lyë, independent pronoun le (or, lye), emphatic pronoun elyë (you)
+¤ thrall mól (slave)
+¤ three neldë; third nelya, also neldëa
+¤ through ter
+¤ thy – possessive ending -lya (your)
+¤ tongue (= language) lambë
+¤ tower mindon (used of a great tower)
+¤ travel lelya- (go, proceed), past tense lendë, perfect [e]lendië
+¤ treasure harma
+¤ tree alda
+¤ true anwa (actual, real)
+¤ twelve ?rasta (extrapolated from the stem RÁSAT, which is all Tolkien provided; he did not list the actual derivatives)
+¤ two atta
+¤ under nu
+¤ until tenna
+¤ urge (impersonal verb) or-, variant ora- (impel)
+¤ us (exclusive) me (see we)
+¤ vanished vanwa (gone, lost, passed)
+¤ wall ramba
+¤ want mer- (wish)
+¤ warrior ohtar
+¤ was né (?)
+¤ watch tir- (guard)
+¤ we – subject endings -lvë (inclusive), -lmë (exclusive), corresponding to the independent emphatic pronouns elvë, elmë. (There is also a dual ending -mmë, "we" meaning "the two of us"; it is unclear whether this is inclusive or exclusive, or indeed whether there is any distinction.) Non-emphatic independent pronoun me, also used as object "us" – possibly exclusive only.
+¤ West Númen (apparently treated as a proper name)
+¤ what (interrogative pronoun) mana
+¤ when (not interrogative) írë
+¤ which (relative pronoun) i, ya
+¤ white ninquë
+¤ who (interrogative pronoun:) man, (relative pronoun:) i, ya
+¤ wield tur- (control, govern)
+¤ will be nauva
+¤ willow tasar
+¤ wine limpë
+¤ winter hrívë
+¤ wise saila
+¤ wish mer- (want)
+¤ without ú (followed by genitive)
+¤ woman (adult female of any sentient race) nís (niss-)
+¤ world Ambar (apparently treated as a proper name)
+¤ wound (verb) harna-
+¤ write tec-
+¤ you – subject ending -lyë, independent pronoun le, emphatic pronoun elyë (you). (It is unclear whether these L-forms cover both sg. and pl. "you", or sg. "thou" only. In some versions of Quenya, plural "you" is apparently denoted by the ending -llë, emphatic pronoun ellë, but these forms are not used in the exercises of this course. The short pronoun le may have a side-form lye which is perhaps a distinctly sg. "you", but only le is used in the exercises.) – Also intimate singular object form tye (= thee).
+¤ your – possessive ending -lya (thy)
