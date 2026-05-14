@@ -31,3 +31,33 @@
 .markdown-body h6 {
   font-size: 1.1rem;
 }
+.quiz-box {
+  margin: 2em 0;
+  padding: 1.5em;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+.quiz-box h3 {
+  margin-top: 0;
+}
+
+.quiz-box label {
+  display: block;
+  margin: 0.6em 0;
+  cursor: pointer;
+}
+
+.quiz-box button {
+  margin-top: 1em;
+  padding: 0.45em 1em;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.quiz-box p[id$="-result"] {
+  margin-top: 1em;
+  font-weight: bold;
+}
