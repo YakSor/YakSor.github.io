@@ -12,17 +12,17 @@
 
 .post-content h2,
 .markdown-body h2 {
-  font-size: 1.35rem;
+  font-size: 1.6rem;
 }
 
 .post-content h3,
 .markdown-body h3 {
-  font-size: 1.1rem;
+  font-size: 1.3rem;
 }
 
 .post-content h4,
 .markdown-body h4 {
-  font-size: 1.25rem;
+  font-size: 1.2rem;
 }
 
 .post-content h5,
@@ -143,4 +143,16 @@
 
 .dict-card strong {
   font-weight: 700;
+}
+
+.grammar-note {
+  margin: 1.2rem 0 1rem;
+  padding: 0.9rem 1.1rem;
+  border-left: 4px solid rgba(157, 214, 255, 0.8);
+  border-radius: 10px;
+  background: rgba(157, 214, 255, 0.08);
+  line-height: 1.8;
+}
+.no-indent {
+  text-indent: 0 !important;
 }
