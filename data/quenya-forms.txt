@@ -1,0 +1,9 @@
+aiwi | aiwë | 复数形式，-wë 结尾的名词变为 -wi
+hendu | hen | 双数形式，表示自然成对的两只眼睛
+hendi | hen | 普通复数形式，表示若干只眼睛，不强调自然成对
+aldar | alda | 复数形式，名词 alda 的复数
+aldu | alda | 双数形式，表示一对树或自然成对的两棵树
+neri | nér | 复数形式，nér 的词干是 ner-
+oronti | oron | 复数形式，oron 的词干是 oront-
+altë | alta | 复数形容词，修饰复数名词时 alta 变为 altë
+vanyë | vanya | 复数形容词，修饰复数名词时 vanya 变为 vanyë
